@@ -1,1 +1,7 @@
-[{"slideNumber":1,"slideObjectId":"p","text":"This is a speaker notes object\nThis is bolded.\n"}]
+[
+	{
+		"slideNumber": 1,
+		"slideObjectId": "p",
+		"text": "This is a speaker notes object\nThis is bolded.\nAdding a small update to the notes.\n"
+	}
+]
