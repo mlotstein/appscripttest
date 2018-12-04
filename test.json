@@ -2,6 +2,11 @@
 	{
 		"slideNumber": 1,
 		"slideObjectId": "p",
-		"text": "This is a speaker notes object\nThis is bolded.\nAdding a small update to the notes.\n"
+		"text": "This is a speaker notes object. This is a change. This is another change.\nThis is bolded.\nAdding a small update to the notes.\n"
+	},
+	{
+		"slideNumber": 2,
+		"slideObjectId": "g339b726b15_0_0",
+		"text": ""
 	}
 ]
